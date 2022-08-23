@@ -1,4 +1,4 @@
-# DeepIntegrationPointCloudAlgorithm
+# DeepRegistrationPointCloudAlgorithm
 Algoritmo para la integración/registro de nubes de puntos tridimensionales basado en técnicas de aprendizaje profundo.
 <img src="BannerDeepIntegration.png" style="width:1200px; height:250px;">
 #
