@@ -1,4 +1,4 @@
-# DeepRegistrationPointCloudAlgorithm
+# Deep Registration Point Cloud Algorithm
 
 <img src="BannerDeepIntegration.png">
 <p align="center"><strong>Algorithm for the integration/registration of three-dimensional point clouds based on deep learning techniques.</strong><p/>
